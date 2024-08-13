@@ -1,4 +1,13 @@
-an add-on for navigating between options on MetaTrader
+# metatrader
+
+## Information
+* Authors: "hamid rezaei"
+* Updated on 13/08/2024
+* Download the [stable version][1]
+* Compatibility: NVDA 2022.1 and beyond.
+
+
+## Presentation
 metatrader nvda addon hotkeys
 control+1 data window
 control+2 trade window
@@ -24,3 +33,5 @@ after pressing control+shift+t
 note: your system Display resolution  should set to 1366 × 768
 when you want to create csv files your keyboard must be set to english otherwise it won't create csv files because it presses english letters
 @py_land
+
+[1]: https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2024.2/MetaTrader.2024.2.telegram.channel.@py_land.nvda-addon
