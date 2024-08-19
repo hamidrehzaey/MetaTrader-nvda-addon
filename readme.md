@@ -32,6 +32,5 @@ after pressing control+shift+t
 7 for weekly
 note: your system Display resolution  should set to 1366 × 768
 when you want to create csv files your keyboard must be set to english otherwise it won't create csv files because it presses english letters
-@py_land
 
-[1]: https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2024.2/MetaTrader.2024.2.telegram.channel.@py_land.nvda-addon
+[1]: https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2024.3/MetaTrader_v2024.3.nvda-addon
