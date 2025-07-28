@@ -1,13 +1,16 @@
 # metatrader
 
 ## Information
+
 * Authors: "hamid rezaei"
-* Updated on 13/08/2024
-* Download the [stable version][1]
+* Updated on 29/07/2025
+* Download the [stable version](https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2025.1.2/MetaTrader_v2025.1.2.nvda-addon)
 * Compatibility: NVDA 2022.1 and beyond.
 
 
+
 ## Presentation
+
 metatrader nvda addon hotkeys
 control+1 data window
 control+2 trade window
@@ -21,7 +24,7 @@ control+9 opens html file in history window
 control+shift+1 buy
 control+shift+2 sell
 control+shift+3 closes trade
-control+shift+4 opens modify or delete 
+control+shift+4 opens modify or delete
 control+shift+5 opens modify or delete pending order
 control+shift+t TA assistant layer commands
 after pressing control+shift+t
@@ -33,4 +36,3 @@ after pressing control+shift+t
 note: your system Display resolution  should set to 1366 × 768
 when you want to create csv files your keyboard must be set to english otherwise it won't create csv files because it presses english letters
 
-[1]: https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2024.3/MetaTrader_v2024.3.nvda-addon
