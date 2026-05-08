@@ -3,8 +3,8 @@
 ## Information
 
 * Authors: "hamid rezaei"
-* Updated on 29/07/2025
-* Download the [stable version](https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2025.1.2/MetaTrader_v2025.1.2.nvda-addon)
+* Updated on 08/05/2026
+* Download the [stable version](https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2026.1/MetaTrader_v2026.1.nvda-addon)
 * Compatibility: NVDA 2022.1 and beyond.
 
 
